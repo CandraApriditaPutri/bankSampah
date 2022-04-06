@@ -50,7 +50,7 @@
                     <!-- Section Heading -->
                     <div class="section-heading text-center">
                         <h2>OUR Galeri</h2>
-                        <p>Kita menyimpan semua foto kegiatan di Galery</p>
+                        <p>Kita menyimpan semua foto kegiatan di Galery Bank Sampah.</p>
                     </div>
                 </div>
             </div>

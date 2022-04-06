@@ -8,7 +8,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Favicon -->
-    <link rel="icon" href="<?php echo base_url().'assets/image/logo_malang.png';?>">
+    <link rel="icon" href="<?php echo base_url().'assets/image/logo_bojonegoro.png';?>">
     
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="<?php echo base_url().'assets/User/style.css';?>">
@@ -49,11 +49,11 @@
                         <div class="single-post-details-area">
                             <div class="post-content">
                                 <h4 class="post-title">Daur Ulang</h4>
-                                <p>BSM menganut falsafah 3R (Reduce, Reuse, Recycle), salah satu penerapan sistem recycle (daur ulang) di bank sampah malang adalah dengan membuat beraneka ragam produk daur ulang yang berbahan dasar menggunakan sampah anorganik.</p>                      
+                                <p>SIMBASABO menganut falsafah 3R (Reduce, Reuse, Recycle), salah satu penerapan sistem recycle (daur ulang) di Bank Sampah Bojonegoro adalah dengan membuat beraneka ragam produk daur ulang yang berbahan dasar menggunakan sampah anorganik.</p>                      
                                 <div class="post-thumbnail mb-30">
                                     <img src="<?php echo base_url().'assets/User/img/bg-img/daurulang_b1.png';?>" alt="">
                                 </div>
-                                <p>Bank Sampah Malang menganut falsafah 3R (Reduce, Reuse, Recycle), salah satu penerapan sistem recycle (daur ulang) di bank sampah malang adalah dengan membuat beraneka ragam produk-produk kerajinan daur ulang yang berbahan dasar menggunakan sampah anorganik seperti plastik hasil sampah metalising dari bungkus kopi ataupun snack, sampah gelas plastik, dan juga sampah kertas.</p>
+                                <p>Bank Sampah Bojonegoro menganut falsafah 3R (Reduce, Reuse, Recycle), salah satu penerapan sistem recycle (daur ulang) di Bank Sampah Malang adalah dengan membuat beraneka ragam produk-produk kerajinan daur ulang yang berbahan dasar menggunakan sampah anorganik seperti plastik hasil sampah metalising dari bungkus kopi ataupun snack, sampah gelas plastik, dan juga sampah kertas.</p>
                                 <div class="post-thumbnail mb-30">
                                     <img src="<?php echo base_url().'assets/User/img/bg-img/daurulang_b2.png';?>" alt="">
                                 </div>
@@ -61,7 +61,7 @@
                                 <div class="post-thumbnail mb-30">
                                     <img src="<?php echo base_url().'assets/User/img/bg-img/daurulang_b3.png';?>" alt="">
                                 </div>
-                                <p>Beragam hasil kerajinan daur ulang tersebut merupakan hasil kolaborasi antara Bank Sampah Malang dengan para nasabahnya, hasil-hasil kerajinan terbaik dapat dipasarkan langsung melalui Bank Sampah Malang.</p>
+                                <p>Beragam hasil kerajinan daur ulang tersebut merupakan hasil kolaborasi antara Bank Sampah Bojonegoro dengan para nasabahnya, hasil-hasil kerajinan terbaik dapat dipasarkan langsung melalui Bank Sampah Malang.</p>
                         <!-- Post Tags & Share -->
                         <div class="post-tags-share d-flex justify-content-between align-items-center">
                             <!-- Tags -->

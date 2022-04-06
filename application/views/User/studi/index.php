@@ -49,15 +49,15 @@
                         <div class="single-post-details-area">
                             <div class="post-content">
                                 <h4 class="post-title">Studi Banding</h4>
-                                <p>Kegiatan studi banding bank sampah malang merupakan kegiatan yang bertujuan untuk menambah wawasan dan pengetahuan bagi masyarakat umum yang ingin mempelajari seluruh aktivitas yang ada di bank sampah malang. </p>                      
+                                <p>Kegiatan studi banding Bank Sampah Bojonegoro merupakan kegiatan yang bertujuan untuk menambah wawasan dan pengetahuan bagi masyarakat umum yang ingin mempelajari seluruh aktivitas yang ada di Bank Sampah Bojonegoro. </p>                      
                                 <div class="post-thumbnail mb-30">
                                     <img src="<?php echo base_url().'assets/User/img/bg-img/studi_b1.png';?>" alt="">
                                 </div>
-                                <p>Kegiatan studi banding bank sampah malang merupakan kegiatan yang bertujuan untuk menambah wawasan dan pengetahuan bagi masyarakat umum yang ingin mempelajari seluruh aktivitas yang ada di bank sampah malang. </p>
+                                <p>Kegiatan studi banding Bank Sampah Bojonegoro merupakan kegiatan yang bertujuan untuk menambah wawasan dan pengetahuan bagi masyarakat umum yang ingin mempelajari seluruh aktivitas yang ada di Bank Sampah Bojonegoro. </p>
                                 <div class="post-thumbnail mb-30">
                                     <img src="<?php echo base_url().'assets/User/img/bg-img/studi_b2.png';?>" alt="">
                                 </div>
-                                <p>Peserta yang sudah melakuakan studi banding di bank sampah malang berasal dari hampir seluruh wilayah indonesia yang mewakili provinsi, kab./kota, ataupun kelurahan/desa.</p>
+                                <p>Peserta yang sudah melakuakan studi banding di Bank Sampah Bojonegoro berasal dari hampir seluruh wilayah indonesia yang mewakili provinsi, kab./kota, ataupun kelurahan/desa.</p>
                         <!-- Post Tags & Share -->
                         <div class="post-tags-share d-flex justify-content-between align-items-center">
                             <!-- Tags -->

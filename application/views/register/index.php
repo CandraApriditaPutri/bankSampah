@@ -12,7 +12,7 @@
   <title>Register</title>
 
   <!-- favicon-->
-  <link rel="icon" href="<?php echo base_url().'assets/image/logo_malang.png';?>">
+  <link rel="icon" href="<?php echo base_url().'assets/image/logo_bojonegoro.png';?>">
 
   <!-- Custom fonts for this template-->
   <link href="<?= base_url('assets/member/')?>vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">

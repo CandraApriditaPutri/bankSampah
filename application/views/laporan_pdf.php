@@ -3,9 +3,9 @@
 <html><head>
     <title></title>
 </head><body>
-    <h3 style="font-size:4rem;text-align:center;margin:0;padding:0">Bank Sampah Malang</h3>
-    <p style="text-align:center;margin:0;padding:0">Jalan S Supriyadi No.38 A, Sukun, Kec. Sukun, Kota Malang, Jawa Timur 65147</p>
-    <p style="text-align:center;margin:0;padding:0">telp : (0341) 341618(0341) &nbsp;&nbsp; FAX : 44556634</p>
+    <h3 style="font-size:4rem;text-align:center;margin:0;padding:0">Bank Sampah Bojonegoro</h3>
+    <p style="text-align:center;margin:0;padding:0"> Jl. Mastoer, Banaran Kidul, Mojodeso, Kec. Kapas, Kabupaten Bojonegoro, Jawa Timur 62181 </p>
+    <p style="text-align:center;margin:0;padding:0">telp : +62 85790926971 &nbsp;&nbsp; FAX : 44556634</p>
     <hr>
     <hr>
     <br>
@@ -67,9 +67,9 @@
         </p>
         <br><br><br><br><br><br><br><br>
  
-        <p style="text-align:right">Malang,...,.........,.....</p>
+        <p style="text-align:right">Bojonegoro,...,.........,.....</p>
         
         <br><br><br><br>
-        <p style="text-align:right"> Bank Sampah Malang </p>
+        <p style="text-align:right"> Bank Sampah Bojonegoro </p>
     </div>
 </body></html>

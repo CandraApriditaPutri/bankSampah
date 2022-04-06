@@ -39,7 +39,7 @@ to get the desired effect
     <a href="<?php echo base_url().'Admin/admin' ?>" class="brand-link">
       <img src="<?php echo base_url().'assets/images/logo4.png' ?>" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
            style="opacity: .8">
-      <span class="brand-text font-weight-light">Bank Sampah</span>
+      <span class="brand-text font-weight-light">Bank Sampah Bojonegoro</span>
     </a>
     
     <!-- Sidebar -->

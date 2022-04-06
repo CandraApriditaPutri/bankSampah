@@ -10,7 +10,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
    <!-- Favicon -->
-   <link rel="icon" href="<?php echo base_url().'assets/image/logo_malang.png';?>">
+   <link rel="icon" href="<?php echo base_url().'assets/image/logo_bojonegoro.png';?>">
    
    <link rel="stylesheet" href="<?php echo base_url().'assets/User/style.css';?>">
    <link rel="stylesheet" href="<?php echo base_url().'assets/User/css/classy-nav.css.map';?>">
@@ -50,7 +50,7 @@
                     <!-- Section Heading -->
                     <div class="section-heading text-center">
                         <h2>OUR Galeri</h2>
-                        <p>Kita menyimpan semua foro kegiatan di Galery</p>
+                        <p>Kita menyimpan semua foto kegiatan di Galery</p>
                     </div>
                 </div>
             </div>

@@ -8,7 +8,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Favicon -->
-    <link rel="icon" href="<?php echo base_url().'assets/image/logo_malang.png';?>">
+    <link rel="icon" href="<?php echo base_url().'assets/image/logo_bojonegoro.png';?>">
     
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="<?php echo base_url().'assets/User/style.css';?>">
@@ -142,7 +142,7 @@
                 <div class="col-12">
                     <!-- Section Heading -->
                     <div class="section-heading text-center">
-                        <h2>Pendiri Bank Sampah</h2>
+                        <h2>Pendiri Bank Sampah Bojonegoro</h2>
                         <p>Manajemen Informatika class 2E</p>
                     </div>
                 </div>
@@ -155,7 +155,7 @@
                     <div class="single-team-member text-center mb-100">
                         <!-- Team Member Thumb -->
                         <div class="team-member-thumb">
-                            <img src="<?php echo base_url().'assets/image/p_candra.jpg';?>" style="width:600px; height:400px;" alt="">
+                            <img src="<?php echo base_url().'assets/image/p_alvira.JPG';?>" style="width:600px; height:400px;" alt="">
                             <!-- Social Info -->
                             <div class="team-member-social-info">
                             <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
@@ -166,7 +166,7 @@
                         <!-- Team Member Info -->
                         <div class="team-member-info mt-30">
                             <h5>Alvira Dewi Septyan</h5>
-                            <p>2031710054</p>
+                            <p>2031710035</p>
                         </div>
                     </div>
                 </div>
@@ -197,7 +197,7 @@
                     <div class="single-team-member text-center mb-100">
                         <!-- Team Member Thumb -->
                         <div class="team-member-thumb">
-                            <img src="<?php echo base_url().'assets/image/p_candra.jpg';?>" style="width:600px; height:400px;" alt="">
+                            <img src="<?php echo base_url().'assets/image/p_nissa.png';?>" style="width:600px; height:400px;" alt="">
                             <!-- Social Info -->
                             <div class="team-member-social-info">
                                 <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
@@ -208,7 +208,7 @@
                         <!-- Team Member Info -->
                         <div class="team-member-info mt-30">
                             <h5>Nissa Nursabrina</h5>
-                            <p>2031710056</p>
+                            <p>2031710029</p>
                         </div>
                     </div>
                 </div>
@@ -224,7 +224,7 @@
                 <div class="col-12 col-md-20">
                     <div class="contact--thumbnail-center">
                         <div class="map-area mb-100">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31610.312102111984!2d112.6049275578226!3d-7.969054332657968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7882a9d385ba91%3A0x667db69be1ab50c9!2sBank%20Sampah%20Malang!5e0!3m2!1sen!2sid!4v1586118135626!5m2!1sen!2sid" allowfullscreen="" ></iframe>
+                        <iframe src="https://maps/dir/-7.1876288,111.9196493/Bank+Sampah+Desa+Mojodeso,+Jl.+Mastoer,+Banaran+Kidul,+Mojodeso,+Kec.+Kapas,+Kabupaten+Bojonegoro,+Jawa+Timur+62181/@-7.1878843,111.8849737,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x2e77811d86629d2d:0x4761f34bd1bf85!2m2!1d111.9199949!2d-7.187962" allowfullscreen="" ></iframe>
                         </div>
                     </div>
                 </div>

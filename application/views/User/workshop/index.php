@@ -8,7 +8,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Favicon -->
-    <link rel="icon" href="<?php echo base_url().'assets/image/logo_malang.png';?>">
+    <link rel="icon" href="<?php echo base_url().'assets/image/logo_bojonegoro.png';?>">
     
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="<?php echo base_url().'assets/User/style.css';?>">
@@ -49,11 +49,11 @@
                         <div class="single-post-details-area">
                             <div class="post-content">
                                 <h4 class="post-title">Workshop</h4>
-                                <p>Bank Sampah Malang juga melayani kegiatan workshop yang dapat dilakukan ditempat ataupun dilokasi lain sesuai dengan kegiatan-kegiatan yang dilakukan masyarakat. </p>                      
+                                <p>Bank Sampah Bojonegoro juga melayani kegiatan workshop yang dapat dilakukan ditempat ataupun dilokasi lain sesuai dengan kegiatan-kegiatan yang dilakukan masyarakat. </p>                      
                                 <div class="post-thumbnail mb-30">
                                     <img src="<?php echo base_url().'assets/User/img/bg-img/workshop_b1.png';?>" alt="">
                                 </div>
-                                <p>Bank Sampah Malang juga melayani kegiatan workshop yang dapat dilakukan ditempat ataupun dilokasi lain sesuai dengan kegiatan-kegiatan yang dilakukan masyarakat. Kegiatan ini menggabungkan anatara teori dengan praktek nyata yang sudah dilakukan para pakar persampahan Bank Sampah Malang. </p>
+                                <p>Bank Sampah Bojonegoro juga melayani kegiatan workshop yang dapat dilakukan ditempat ataupun dilokasi lain sesuai dengan kegiatan-kegiatan yang dilakukan masyarakat. Kegiatan ini menggabungkan anatara teori dengan praktek nyata yang sudah dilakukan para pakar persampahan Bank Sampah Bojonegoro. </p>
                                 <div class="post-thumbnail mb-30">
                                     <img src="<?php echo base_url().'assets/User/img/bg-img/workshop_b2.png';?>" alt="">
                                 </div>

@@ -8,7 +8,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Favicon -->
-    <link rel="icon" href="<?php echo base_url().'assets/image/logo_malang.png';?>">
+    <link rel="icon" href="<?php echo base_url().'assets/image/logo_bojonegoro.png';?>">
     
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="<?php echo base_url().'assets/User/style.css';?>">
@@ -49,11 +49,11 @@
                         <div class="single-post-details-area">
                             <div class="post-content">
                                 <h4 class="post-title">Pendampingan</h4>
-                                <p>Salah satu tugas dan fungsi Bank Sampah Malang adalah memberikan sosialisasi dan pendampingan kepada masyarakat umum mengenai pengelolaan sampah serta manfaat sosial, ekonomi, dan lingkungan yang dihasilkan dari proses pengelolaan sampah tersebut.</p>                      
+                                <p>Salah satu tugas dan fungsi Bank Sampah Bojonegoro adalah memberikan sosialisasi dan pendampingan kepada masyarakat umum mengenai pengelolaan sampah serta manfaat sosial, ekonomi, dan lingkungan yang dihasilkan dari proses pengelolaan sampah tersebut.</p>                      
                                 <div class="post-thumbnail mb-30">
                                     <img src="<?php echo base_url().'assets/User/img/bg-img/pendampingan_b1.png';?>" alt="">
                                 </div>
-                                <p>Sosialisasi dan pendampingan masyarakat yang dilakukan oleh Bank Sampah Malang telah tersebar lebih dari wilayah Malang Raya, bahkan kegiatan tersebut telah dilakukan hingga skala nasional melalui kunjungan keberbagai kota di Indonesia.  </p>
+                                <p>Sosialisasi dan pendampingan masyarakat yang dilakukan oleh Bank Sampah Bojonegoro telah tersebar lebih dari wilayah Bojonegoro, bahkan kegiatan tersebut telah dilakukan hingga skala nasional melalui kunjungan keberbagai kota di Indonesia.  </p>
                         <!-- Post Tags & Share -->
                         <div class="post-tags-share d-flex justify-content-between align-items-center">
                             <!-- Tags -->

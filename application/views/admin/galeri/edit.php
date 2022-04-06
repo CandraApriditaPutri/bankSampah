@@ -1,4 +1,4 @@
-<link rel="icon" href="<?php echo base_url().'assets/image/logo_malang.png';?>">  
+<link rel="icon" href="<?php echo base_url().'assets/image/logo_bojonegoro.png';?>">  
      <!-- Content Wrapper. Contains page content -->
      <div class="content-wrapper">
     <!-- Content Header (Page header) -->

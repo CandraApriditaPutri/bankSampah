@@ -8,7 +8,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Favicon -->
-    <link rel="icon" href="<?php echo base_url().'assets/image/logo_malang.png';?>">
+    <link rel="icon" href="<?php echo base_url().'assets/image/logo_bojonegoro.png';?>">
     
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="<?php echo base_url().'assets/User/style.css';?>">
@@ -49,7 +49,7 @@
                         <div class="single-post-details-area">
                             <div class="post-content">
                                 <h4 class="post-title">Pelatihan</h4>
-                                <p>Kegiatan pelatihan di Bank Sampah Malang meliputi kegiatan pemilahan sampah dan kegiatan pelatihan kerajinan daur ulang sampah. </p>                      
+                                <p>Kegiatan pelatihan di Bank Sampah Bojonegoro meliputi kegiatan pemilahan sampah dan kegiatan pelatihan kerajinan daur ulang sampah. </p>                      
                                 <div class="post-thumbnail mb-30">
                                     <img src="<?php echo base_url().'assets/User/img/bg-img/pelatihan_b1.png';?>" alt="">
                                 </div>

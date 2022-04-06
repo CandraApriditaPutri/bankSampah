@@ -8,7 +8,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Favicon -->
-    <link rel="icon" href="<?php echo base_url().'assets/image/logo_malang.png';?>">
+    <link rel="icon" href="<?php echo base_url().'assets/image/logo_bojonegoro.png';?>">
     
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="<?php echo base_url().'assets/User/style.css';?>">
@@ -45,7 +45,7 @@
                 <!-- Contact Thumbnail -->
                 <div class="col-12 col-md-6">
                     <div class="contact--thumbnail">
-                        <img src="<?php echo base_url().'assets/User/img/bg-img/profile_b1.png';?>" alt="">
+                        <img src="<?php echo base_url().'assets/User/img/bg-img/profile_b1.jpg';?>" alt="">
                     </div>
                 </div>
 
@@ -53,12 +53,12 @@
                     <!-- Section Heading -->
                     <div class="section-heading">
                         <h2>Profile</h2>
-                        <p>Bank Sampah Kota Malang.</p>
+                        <p>Bank Sampah Bojonegoro.</p>
                     </div>
                     <!-- Contact Information -->
                     <div class="contact-information">
                         <p></p>
-                        <p>Bank Sampah Malang (BSM) adalah suatu lembaga yang berbadan hukum koperasi yang pendiriannya difasilitasi oleh Pemerintah Kota Malang melalui Dinas Kebersihan dan Pertamanan untuk membantu dalam hal pemberdayaan masyarakat untuk ikut serta aktif dalam pengolahan sampah dari sumbernya (rumah tangga). Seiring perjalanan waktu BSM menjadi mitra Kota Malang dalam hal membina, melatih, mendampingi dalam pengolahan sampah 3R (reduce, reuse and recycle) masyarakat Kota Malang yang mandiri dilihat dari biaya operasional yang dapat dibiayai sendiri.</p>
+                        <p>Bank Sampah Bojonegoro(SIMBASABO) adalah suatu lembaga yang berbadan hukum koperasi yang pendiriannya difasilitasi oleh Pemerintah Kota Bojonegoro melalui Dinas Kebersihan dan Pertamanan untuk membantu dalam hal pemberdayaan masyarakat untuk ikut serta aktif dalam pengolahan sampah dari sumbernya (rumah tangga). Seiring perjalanan waktu SIMBASABO menjadi mitra Kota Bojonegoro dalam hal membina, melatih, mendampingi dalam pengolahan sampah 3R (reduce, reuse and recycle) masyarakat Kota Bojonegoro yang mandiri dilihat dari biaya operasional yang dapat dibiayai sendiri.</p>
                     </div>
                 </div>
             </div>

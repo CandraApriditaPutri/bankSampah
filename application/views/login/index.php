@@ -5,7 +5,7 @@
 
 <title>Login</title>
 <!-- Favicon -->
-<link rel="icon" href="<?php echo base_url().'assets/image/logo_malang.png';?>">
+<link rel="icon" href="<?php echo base_url().'assets/image/logo_bojonegoro.png';?>">
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <!--<link rel="stylesheet" type="text/css" href="<? echo base_url();?>/assets/login/login.css"> -->

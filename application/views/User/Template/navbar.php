@@ -40,8 +40,8 @@
                         <div class="top-header-content d-flex align-items-center justify-content-between">
                             <!-- Top Header Content -->
                             <div class="top-header-meta">
-                                <a href="#"title=" banksampahmalang123@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> <span>Email:  banksampahmalang123@gmail.com</span></a>
-                                <a href="#"data-placement="bottom" title="(+62) 85204444886 "><i class="fa fa-phone" aria-hidden="true"></i> <span>Call Us: (+62) 85204444886</span></a>
+                                <a href="#"title=" banksampahbojonegoro123@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> <span>Email:  banksampahbojonegoro123@gmail.com</span></a>
+                                <a href="#"data-placement="bottom" title="(+62) 85790926971 "><i class="fa fa-phone" aria-hidden="true"></i> <span>Call Us: (+62) 85790926971</span></a>
                             </div>
 
                             <!-- Top Header Content -->

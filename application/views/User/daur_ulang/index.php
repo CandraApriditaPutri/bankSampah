@@ -53,7 +53,7 @@
                                 <div class="post-thumbnail mb-30">
                                     <img src="<?php echo base_url().'assets/User/img/bg-img/daurulang_b1.png';?>" alt="">
                                 </div>
-                                <p>Bank Sampah Bojonegoro menganut falsafah 3R (Reduce, Reuse, Recycle), salah satu penerapan sistem recycle (daur ulang) di Bank Sampah Malang adalah dengan membuat beraneka ragam produk-produk kerajinan daur ulang yang berbahan dasar menggunakan sampah anorganik seperti plastik hasil sampah metalising dari bungkus kopi ataupun snack, sampah gelas plastik, dan juga sampah kertas.</p>
+                                <p>Bank Sampah Bojonegoro menganut falsafah 3R (Reduce, Reuse, Recycle), salah satu penerapan sistem recycle (daur ulang) di Bank Sampah Bojonegoro adalah dengan membuat beraneka ragam produk-produk kerajinan daur ulang yang berbahan dasar menggunakan sampah anorganik seperti plastik hasil sampah metalising dari bungkus kopi ataupun snack, sampah gelas plastik, dan juga sampah kertas.</p>
                                 <div class="post-thumbnail mb-30">
                                     <img src="<?php echo base_url().'assets/User/img/bg-img/daurulang_b2.png';?>" alt="">
                                 </div>
@@ -61,7 +61,7 @@
                                 <div class="post-thumbnail mb-30">
                                     <img src="<?php echo base_url().'assets/User/img/bg-img/daurulang_b3.png';?>" alt="">
                                 </div>
-                                <p>Beragam hasil kerajinan daur ulang tersebut merupakan hasil kolaborasi antara Bank Sampah Bojonegoro dengan para nasabahnya, hasil-hasil kerajinan terbaik dapat dipasarkan langsung melalui Bank Sampah Malang.</p>
+                                <p>Beragam hasil kerajinan daur ulang tersebut merupakan hasil kolaborasi antara Bank Sampah Bojonegoro dengan para nasabahnya, hasil-hasil kerajinan terbaik dapat dipasarkan langsung melalui Bank Sampah Bojonegoro.</p>
                         <!-- Post Tags & Share -->
                         <div class="post-tags-share d-flex justify-content-between align-items-center">
                             <!-- Tags -->

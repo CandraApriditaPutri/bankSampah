@@ -102,7 +102,7 @@
                     <!-- Copywrite Text -->
                     <div class="col-12 col-md-6">
                         <div class="copywrite-text">
-                            <p>&copy;  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Bank Sampah <i class="fa fa-heart-o" aria-hidden="true"></i> by didhar</p>
+                            <p>&copy;  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Bank Sampah <i class="fa fa-heart-o" aria-hidden="true"></i> by Alvira, Candra, Nissa</p>
                         </div>
                     </div>
                     <!-- Footer Nav -->

@@ -224,7 +224,7 @@
                 <div class="col-12 col-md-20">
                     <div class="contact--thumbnail-center">
                         <div class="map-area mb-100">
-                        <iframe src="https://maps/dir/-7.1876288,111.9196493/Bank+Sampah+Desa+Mojodeso,+Jl.+Mastoer,+Banaran+Kidul,+Mojodeso,+Kec.+Kapas,+Kabupaten+Bojonegoro,+Jawa+Timur+62181/@-7.1878843,111.8849737,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x2e77811d86629d2d:0x4761f34bd1bf85!2m2!1d111.9199949!2d-7.187962" allowfullscreen="" ></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.4650079791813!2d111.91947479999999!3d-7.187661200000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e77811d35282035%3A0xc52f173d50ea3739!2sJl.%20Mastoer%2C%20Banaran%20Kidul%2C%20Mojodeso%2C%20Kec.%20Kapas%2C%20Kabupaten%20Bojonegoro%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1653835390531!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                 </div>
